@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-dan-dev-143347-authRole",
+      "UnauthRoleArn": "arn:aws:iam::020033117422:role/amplify-dan-dev-143347-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::020033117422:role/amplify-dan-dev-143347-authRole",
+      "Region": "eu-west-3",
+      "DeploymentBucketName": "amplify-dan-dev-143347-deployment",
+      "UnauthRoleName": "amplify-dan-dev-143347-unauthRole",
+      "StackName": "amplify-dan-dev-143347",
+      "StackId": "arn:aws:cloudformation:eu-west-3:020033117422:stack/amplify-dan-dev-143347/2bc34540-7185-11ed-bafb-0aba38906bce",
+      "AmplifyAppId": "dvdugkcboiaga"
+    }
+  }
+}
