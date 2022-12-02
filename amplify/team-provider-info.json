@@ -10,6 +10,11 @@
       "StackName": "amplify-dan-dev-143347",
       "StackId": "arn:aws:cloudformation:eu-west-3:020033117422:stack/amplify-dan-dev-143347/2bc34540-7185-11ed-bafb-0aba38906bce",
       "AmplifyAppId": "dvdugkcboiaga"
+    },
+    "categories": {
+      "auth": {
+        "danf49e6b88": {}
+      }
     }
   }
 }
